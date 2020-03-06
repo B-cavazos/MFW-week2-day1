@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand|Spartan&display=swap');
+
+body{
+    font-family: 'Spartan', sans-serif;
+}
+
+.heading_font{
+    font-family: 'Patrick Hand', cursive;   
+}
